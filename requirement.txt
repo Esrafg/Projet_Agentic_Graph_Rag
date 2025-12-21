@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain-groq
+langchain-neo4j
+langchain-huggingface
+langchain-community
+neo4j
+gradio
+python-dotenv
+sentence-transformers
+torch
